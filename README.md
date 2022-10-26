@@ -1,1 +1,1 @@
-# computer-network-lab
+# computer network program and lab manual
